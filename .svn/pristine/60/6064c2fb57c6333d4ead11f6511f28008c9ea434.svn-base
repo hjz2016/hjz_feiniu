@@ -1,0 +1,105 @@
+	// 渲染头部
+	$('.header').load('html/header.html',function(){
+		var spread = $('#spread');
+		var close = $('#close');
+
+		spread.click(function(e){
+			stopBubble(e);
+		})
+
+		close.click(function(e){
+			stopBubble(e);
+		})
+	});
+
+	// 顶部banner轮播图
+	var roller = Roller.create();
+
+
+	// banner选项卡
+	(function(){
+		var $slider = $('.mid_slide');
+		var $items = $slider.children('ul').children();
+
+		$items.click(function() {
+			$(this).siblings().removeClass('charging_active')
+			$(this).addClass('charging_active')
+			if($(this).index() == 0){
+				$('.ph_money').show();
+				$('.liu_money').hide();
+			}else{
+				$('.liu_money').show();
+				$('.ph_money').hide();
+			}
+		});
+	})();
+
+	// banner右侧功能区
+	(function(){
+		var flag = false;
+
+		// 小箭头
+		$('.num_type').click(function(){
+			$(this).parent().siblings('.selector').show();
+		})
+		.siblings('i')
+		.mouseover(function() {
+			$(this).css({
+				backgroundPosition : '-38px -162px'
+			}).parent()
+			.siblings('.selector').show();
+		}).mouseout(function() {
+			$(this).css({
+				backgroundPosition : '-29px -162px'
+			}).parent()
+			.siblings('.selector').mouseout();
+		});
+
+
+		// 整个选择框
+		$('.selector').mouseover(function() {
+			$(this).show();
+			flag = true;
+		}).mouseout(function() {
+			flag = false;
+			var $that = $(this);
+			myMouseout($that)
+		})
+		.children()
+		.click(function() {
+			var oVal = $(this).find('a').html();
+			$(this).parent().parent().find('.num_type').html(oVal);
+			$(this).parent().hide();
+		})
+		.mouseover(function() {
+			$(this).addClass('li_active');
+			$(this).find('a').css("color","#d7063b");
+		})
+		.mouseout(function() {
+			$(this).removeClass('li_active');
+			$(this).find('a').css("color","#000");
+		});
+
+		function myMouseout($that){
+			var timer = setTimeout(function(){
+				if(flag){
+					return false;
+				}else{
+					$that.hide();
+				}
+			},500)
+		}
+		
+	})();
+
+	function stopBubble(e){
+		e = e || window.event;
+
+		if(e.stopPropagation){
+			e.stopPropagation();
+		}else{
+			e.cancelBubble = true;
+		}
+	}
+
+	

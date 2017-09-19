@@ -1,0 +1,244 @@
+			<div class="food_top">
+				<h3 class="food_title">
+						<i>1F</i>
+						食品饮料
+				</h3>
+				<ul>
+					<li class="acti"><a href="javascript:;">精选推荐</a><span></span></li>
+					<li ><a href="javascript:;">休闲零食</a><span></span></li>
+					<li><a href="javascript:;">酒水饮料</a><span></span></li>
+					<li><a href="javascript:;">粮油干货</a><span></span></li>
+					<li><a href="javascript:;">调味速食</a><span></span></li>
+					<li><a href="javascript:;">茶冲乳品</a></li>
+				</ul>
+			</div>
+			<div class="food_mid_lf">
+				<div class="mid_lf_bg">
+					<a href="">
+						<img src="http://img02.fn-mart.com/pic/cdb4133e86a51964d8de/hzqzTT7nv2LlBdZljn/5YmRSyFGta3ify/CsmRslmuBh2Aejz4AABNe1e_dsA134.jpg" alt="">
+					</a>
+					<ul>
+						<li><a class="point" href="javascript:;">啤酒 夏日纵情畅饮></a></li>
+						<li><a class="point" href="javascript:;">粮油干货 生活所需></a></li>
+					</ul>
+					<p>
+						<a href="">薯&nbsp;&nbsp;片</a>
+						<a href="">啤&nbsp;&nbsp;酒</a>
+						<a href="">坚&nbsp;&nbsp;果</a>
+						<a href="">蜜&nbsp;&nbsp;饯</a>
+						<a href="">葡萄酒</a>
+						<a href="">酸&nbsp;&nbsp;奶</a>
+						<a href="">口香糖</a>
+						<a href="">白&nbsp;&nbsp;酒</a>
+						<a href="">咖&nbsp;&nbsp;啡</a>
+						<a href="">肉零食</a>
+						<a href="">饮用水</a>
+						<a href="">食用油</a>
+						<a href="">饼&nbsp;&nbsp;干</a>
+						<a href="">茶饮料</a>
+						<a href="">大&nbsp;&nbsp;米</a>
+
+					</p>
+				</div>
+			</div>
+			<ul class="food_mid_main">
+				<li class="mid_main_list1" style='display: block;'>
+					<ul class="list1_ctx">
+						<li class="list1_ctx_item_big">
+							<div><a href=""><img src="http://img04.fn-mart.com/pic/ab7d133e84cd1d8a8510/BT6n22szFztlhlUdOz/59eyoa_RLGha0R/CsmRslmqLPyALMnUAADQkUfBlkk693.jpg" alt=""></a></div>
+							<div><a href=""><img src="http://img02.fn-mart.com/pic/94fa133e84c61d8c8f20/hTqTnns2DnLdBgZMjT/7imRoGvRLyhaWa/CsmRslmqLRyAUu5RAAB5FcrVOVs700.jpg" alt=""></a></div>
+						</li>
+						<li><a href=""><img src="http://img03.fn-mart.com/pic/cc08133e84ca1dcc2caf/BzHznn5T_2tlKguMj2/7YoamG_yfGKG0a/CsmRslmqLT2AfVAZAACO_lcxKMM270.jpg" alt=""></a></li>
+						<li><a href=""><img src="http://img02.fn-mart.com/pic/c3c1133e84ca1e08d657/h28TTT7nF2tlKdVgj2/7ieySGvGtahaWy/CsmRsVmqLYmAcowmAAB9E1b5qhc917.jpg" alt=""></a></li>
+						<li><a href=""><img src="http://img04.fn-mart.com/pic/d020133e46d5dc56453d/hzq2221nv2tdhlugX2/1iSGSaDauyMyEa/CsmRslmkwmyABCy8AACTWjTgZHY810.jpg" alt=""></a></li>
+						<li><a href=""><img src="http://img04.fn-mart.com/pic/1eab133e84ce1dcb18df/Bn82TTs2FTflBdUdjn/1xmGSGvyfGhG0R/CsmRslmqLVmAfThqAABPFvOqguU061.jpg" alt=""></a></li>
+						<li><a href=""><img src="http://img03.fn-mart.com/pic/1800133e84c21e0ab3b1/B28nnn5TDnClhgZd3z/sYSReGDatRhapR/CsmRslmqLaeAeHpPAABJWeJ53v8395.jpg" alt=""></a></li>
+						<li><a href=""><img src="http://img02.fn-mart.com/pic/07cd133e84c61ec51813/B2Hzzz5TvnfdBdZdXn/sYSReGDatRhapR/CsmRslmqLkmADWWzAAA9fB7Ob7M007.jpg" alt=""></a></li>
+					</ul>
+				</li>
+				<li class="mid_main_list2" >
+					<ul class="list_ctx">
+						<li>
+							<img src="http://img02.fn-mart.com/C/item/2014/1218/201412C180000279/_593923912_160x160.jpg" alt="">
+							<p>华味亨 精选小核桃仁 138g/袋</p>
+							<p class="goods_price"><span>￥</span><span>68.6</span></p>
+						</li>
+						<li><img src="http://img02.fn-mart.com/C/item/2014/1218/201412C180000279/_593923912_160x160.jpg" alt="">
+							<p>华味亨 精选小核桃仁 138g/袋</p>
+							<span>￥68.6</span></li>
+						<li><img src="http://img02.fn-mart.com/C/item/2014/1218/201412C180000279/_593923912_160x160.jpg" alt="">
+							<p>华味亨 精选小核桃仁 138g/袋</p>
+							<span>￥68.6</span></li>
+						<li><img src="http://img02.fn-mart.com/C/item/2014/1218/201412C180000279/_593923912_160x160.jpg" alt="">
+							<p>华味亨 精选小核桃仁 138g/袋</p>
+							<span>￥68.6</span></li>
+						<li><img src="http://img02.fn-mart.com/C/item/2014/1218/201412C180000279/_593923912_160x160.jpg" alt="">
+							<p>华味亨 精选小核桃仁 138g/袋</p>
+							<span>￥68.6</span></li>
+						<li><img src="http://img02.fn-mart.com/C/item/2014/1218/201412C180000279/_593923912_160x160.jpg" alt="">
+							<p>华味亨 精选小核桃仁 138g/袋</p>
+							<span>￥68.6</span></li>
+						<li><img src="http://img02.fn-mart.com/C/item/2014/1218/201412C180000279/_593923912_160x160.jpg" alt="">
+							<p>华味亨 精选小核桃仁 138g/袋</p>
+							<span>￥68.6</span></li>
+						<li><img src="http://img02.fn-mart.com/C/item/2014/1218/201412C180000279/_593923912_160x160.jpg" alt="">
+							<p>华味亨 精选小核桃仁 138g/袋</p>
+							<span>￥68.6</span></li>
+						<li><img src="http://img02.fn-mart.com/C/item/2014/1218/201412C180000279/_593923912_160x160.jpg" alt="">
+							<p>华味亨 精选小核桃仁 138g/袋</p>
+							<span>￥68.6</span></li>
+						<li><img src="http://img02.fn-mart.com/C/item/2014/1218/201412C180000279/_593923912_160x160.jpg" alt="">
+							<p>华味亨 精选小核桃仁 138g/袋</p>
+							<span>￥68.6</span></li>
+					</ul>
+					
+				</li>
+				<li class="mid_main_list2" >
+					<ul class="list_ctx">
+						<li>
+							<img src="http://img02.fn-mart.com/C/item/2014/1218/201412C180000279/_593923912_160x160.jpg" alt="">
+							<p>华味亨 精选小核桃仁 138g/袋</p>
+							<p class="goods_price"><span>￥</span><span>68.6</span></p>
+						</li>
+						<li><img src="http://img02.fn-mart.com/C/item/2014/1218/201412C180000279/_593923912_160x160.jpg" alt="">
+							<p>华味亨 精选小核桃仁 138g/袋</p>
+							<span>￥68.6</span></li>
+						<li><img src="http://img02.fn-mart.com/C/item/2014/1218/201412C180000279/_593923912_160x160.jpg" alt="">
+							<p>华味亨 精选小核桃仁 138g/袋</p>
+							<span>￥68.6</span></li>
+						<li><img src="http://img02.fn-mart.com/C/item/2014/1218/201412C180000279/_593923912_160x160.jpg" alt="">
+							<p>华味亨 精选小核桃仁 138g/袋</p>
+							<span>￥68.6</span></li>
+						<li><img src="http://img02.fn-mart.com/C/item/2014/1218/201412C180000279/_593923912_160x160.jpg" alt="">
+							<p>华味亨 精选小核桃仁 138g/袋</p>
+							<span>￥68.6</span></li>
+						<li><img src="http://img02.fn-mart.com/C/item/2014/1218/201412C180000279/_593923912_160x160.jpg" alt="">
+							<p>华味亨 精选小核桃仁 138g/袋</p>
+							<span>￥68.6</span></li>
+						<li><img src="http://img02.fn-mart.com/C/item/2014/1218/201412C180000279/_593923912_160x160.jpg" alt="">
+							<p>华味亨 精选小核桃仁 138g/袋</p>
+							<span>￥68.6</span></li>
+						<li><img src="http://img02.fn-mart.com/C/item/2014/1218/201412C180000279/_593923912_160x160.jpg" alt="">
+							<p>华味亨 精选小核桃仁 138g/袋</p>
+							<span>￥68.6</span></li>
+						<li><img src="http://img02.fn-mart.com/C/item/2014/1218/201412C180000279/_593923912_160x160.jpg" alt="">
+							<p>华味亨 精选小核桃仁 138g/袋</p>
+							<span>￥68.6</span></li>
+						<li><img src="http://img02.fn-mart.com/C/item/2014/1218/201412C180000279/_593923912_160x160.jpg" alt="">
+							<p>华味亨 精选小核桃仁 138g/袋</p>
+							<span>￥68.6</span></li>
+					</ul>
+					
+				</li>
+				<li class="mid_main_list2">
+					<ul class="list_ctx">
+						<li>
+							<img src="http://img02.fn-mart.com/C/item/2014/1218/201412C180000279/_593923912_160x160.jpg" alt="">
+							<p>华味亨 精选小核桃仁 22222138g/袋</p>
+							<p class="goods_price"><span>￥</span><span>68.6</span></p>
+						</li>
+						<li><img src="http://img02.fn-mart.com/C/item/2014/1218/201412C180000279/_593923912_160x160.jpg" alt="">
+							<p>华味亨 精选小核桃仁 138g/袋</p>
+							<span>￥68.6</span></li>
+						<li><img src="http://img02.fn-mart.com/C/item/2014/1218/201412C180000279/_593923912_160x160.jpg" alt="">
+							<p>华味亨 精选小核桃仁 138g/袋</p>
+							<span>￥68.6</span></li>
+						<li><img src="http://img02.fn-mart.com/C/item/2014/1218/201412C180000279/_593923912_160x160.jpg" alt="">
+							<p>华味亨 精选小核桃仁 138g/袋</p>
+							<span>￥68.6</span></li>
+						<li><img src="http://img02.fn-mart.com/C/item/2014/1218/201412C180000279/_593923912_160x160.jpg" alt="">
+							<p>华味亨 精选小核桃仁 138g/袋</p>
+							<span>￥68.6</span></li>
+						<li><img src="http://img02.fn-mart.com/C/item/2014/1218/201412C180000279/_593923912_160x160.jpg" alt="">
+							<p>华味亨 精选小核桃仁 138g/袋</p>
+							<span>￥68.6</span></li>
+						<li><img src="http://img02.fn-mart.com/C/item/2014/1218/201412C180000279/_593923912_160x160.jpg" alt="">
+							<p>华味亨 精选小核桃仁 138g/袋</p>
+							<span>￥68.6</span></li>
+						<li><img src="http://img02.fn-mart.com/C/item/2014/1218/201412C180000279/_593923912_160x160.jpg" alt="">
+							<p>华味亨 精选小核桃仁 138g/袋</p>
+							<span>￥68.6</span></li>
+						<li><img src="http://img02.fn-mart.com/C/item/2014/1218/201412C180000279/_593923912_160x160.jpg" alt="">
+							<p>华味亨 精选小核桃仁 138g/袋</p>
+							<span>￥68.6</span></li>
+						<li><img src="http://img02.fn-mart.com/C/item/2014/1218/201412C180000279/_593923912_160x160.jpg" alt="">
+							<p>华味亨 精选小核桃仁 138g/袋</p>
+							<span>￥68.6</span></li>
+					</ul>
+					
+				</li>
+				<li class="mid_main_list2">
+					<ul class="list_ctx">
+						<li>
+							<img src="http://img02.fn-mart.com/C/item/2014/1218/201412C180000279/_593923912_160x160.jpg" alt="">
+							<p>华味亨 精选小核桃仁 33333138g/袋</p>
+							<p class="goods_price"><span>￥</span><span>68.6</span></p>
+						</li>
+						<li><img src="http://img02.fn-mart.com/C/item/2014/1218/201412C180000279/_593923912_160x160.jpg" alt="">
+							<p>华味亨 精选小核桃仁 138g/袋</p>
+							<span>￥68.6</span></li>
+						<li><img src="http://img02.fn-mart.com/C/item/2014/1218/201412C180000279/_593923912_160x160.jpg" alt="">
+							<p>华味亨 精选小核桃仁 138g/袋</p>
+							<span>￥68.6</span></li>
+						<li><img src="http://img02.fn-mart.com/C/item/2014/1218/201412C180000279/_593923912_160x160.jpg" alt="">
+							<p>华味亨 精选小核桃仁 138g/袋</p>
+							<span>￥68.6</span></li>
+						<li><img src="http://img02.fn-mart.com/C/item/2014/1218/201412C180000279/_593923912_160x160.jpg" alt="">
+							<p>华味亨 精选小核桃仁 138g/袋</p>
+							<span>￥68.6</span></li>
+						<li><img src="http://img02.fn-mart.com/C/item/2014/1218/201412C180000279/_593923912_160x160.jpg" alt="">
+							<p>华味亨 精选小核桃仁 138g/袋</p>
+							<span>￥68.6</span></li>
+						<li><img src="http://img02.fn-mart.com/C/item/2014/1218/201412C180000279/_593923912_160x160.jpg" alt="">
+							<p>华味亨 精选小核桃仁 138g/袋</p>
+							<span>￥68.6</span></li>
+						<li><img src="http://img02.fn-mart.com/C/item/2014/1218/201412C180000279/_593923912_160x160.jpg" alt="">
+							<p>华味亨 精选小核桃仁 138g/袋</p>
+							<span>￥68.6</span></li>
+						<li><img src="http://img02.fn-mart.com/C/item/2014/1218/201412C180000279/_593923912_160x160.jpg" alt="">
+							<p>华味亨 精选小核桃仁 138g/袋</p>
+							<span>￥68.6</span></li>
+						<li><img src="http://img02.fn-mart.com/C/item/2014/1218/201412C180000279/_593923912_160x160.jpg" alt="">
+							<p>华味亨 精选小核桃仁 138g/袋</p>
+							<span>￥68.6</span></li>
+					</ul>
+					
+				</li>
+				<li class="mid_main_list2">
+					<ul class="list_ctx">
+						<li>
+							<img src="http://img02.fn-mart.com/C/item/2014/1218/201412C180000279/_593923912_160x160.jpg" alt="">
+							<p>华味亨 精选小核桃仁 44444138g/袋</p>
+							<p class="goods_price"><span>￥</span><span>68.6</span></p>
+						</li>
+						<li><img src="http://img02.fn-mart.com/C/item/2014/1218/201412C180000279/_593923912_160x160.jpg" alt="">
+							<p>华味亨 精选小核桃仁 138g/袋</p>
+							<span>￥68.6</span></li>
+						<li><img src="http://img02.fn-mart.com/C/item/2014/1218/201412C180000279/_593923912_160x160.jpg" alt="">
+							<p>华味亨 精选小核桃仁 138g/袋</p>
+							<span>￥68.6</span></li>
+						<li><img src="http://img02.fn-mart.com/C/item/2014/1218/201412C180000279/_593923912_160x160.jpg" alt="">
+							<p>华味亨 精选小核桃仁 138g/袋</p>
+							<span>￥68.6</span></li>
+						<li><img src="http://img02.fn-mart.com/C/item/2014/1218/201412C180000279/_593923912_160x160.jpg" alt="">
+							<p>华味亨 精选小核桃仁 138g/袋</p>
+							<span>￥68.6</span></li>
+						<li><img src="http://img02.fn-mart.com/C/item/2014/1218/201412C180000279/_593923912_160x160.jpg" alt="">
+							<p>华味亨 精选小核桃仁 138g/袋</p>
+							<span>￥68.6</span></li>
+						<li><img src="http://img02.fn-mart.com/C/item/2014/1218/201412C180000279/_593923912_160x160.jpg" alt="">
+							<p>华味亨 精选小核桃仁 138g/袋</p>
+							<span>￥68.6</span></li>
+						<li><img src="http://img02.fn-mart.com/C/item/2014/1218/201412C180000279/_593923912_160x160.jpg" alt="">
+							<p>华味亨 精选小核桃仁 138g/袋</p>
+							<span>￥68.6</span></li>
+						<li><img src="http://img02.fn-mart.com/C/item/2014/1218/201412C180000279/_593923912_160x160.jpg" alt="">
+							<p>华味亨 精选小核桃仁 138g/袋</p>
+							<span>￥68.6</span></li>
+						<li><img src="http://img02.fn-mart.com/C/item/2014/1218/201412C180000279/_593923912_160x160.jpg" alt="">
+							<p>华味亨 精选小核桃仁 138g/袋</p>
+							<span>￥68.6</span></li>
+					</ul>
+					
+				</li>
+			</ul>

@@ -1,0 +1,89 @@
+	var data = {};
+	var myType = '';
+
+	function initParams(type){
+			myType = type;
+			switch (type) {
+				case "food":
+					data = {
+								c:"widget",
+								a:"get_widget_data",
+								t:1505549960099,
+								widgetId:2486
+							};
+					break;
+				case "meizhuang":
+					data = {
+								c:"widget",
+								a:"get_widget_data",
+								t:1505553256537,
+								widgetId:2488
+							};
+					break;
+				case "jiadian":
+					data = {
+								c:"widget",
+								a:"get_widget_data",
+								t:1505553256537,
+								widgetId:3914
+							};
+					break;
+				case "clothes":
+					data = {
+								c:"widget",
+								a:"get_widget_data",
+								t:1505553256537,
+								widgetId:3915
+							};
+					break;
+				case "shoes":
+					data = {
+								c:"widget",
+								a:"get_widget_data",
+								t:1505553256537,
+								widgetId:3913
+							};
+					break;
+				case "sports":
+					data = {
+								c:"widget",
+								a:"get_widget_data",
+								t:1505553256537,
+								widgetId:3916
+							};
+			}
+			beginAjax();
+	}
+
+	var type_tabs = [];
+	var type_str = '';
+
+	$(document).ajaxStart(function() {
+		// console.log(data);
+	});
+	
+	function beginAjax(){
+
+		$.ajax({
+			url:'http://www.feiniu.com',
+			type:'GET',
+			data:data
+		})
+		.then(function(res){
+			res = JSON.parse(res);
+			for(var i = 0 , tab; tab = res.message.tabs[i++];){
+				type_tabs[i] = tab;
+			}
+
+			console.log(type_tabs);
+
+			$('body').append('<script src="js/'+ myType +'.js"></script>');
+
+			renderHTML(myType);
+		});
+			
+	}
+
+
+
+	

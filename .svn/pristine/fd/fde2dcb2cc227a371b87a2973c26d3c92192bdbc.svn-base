@@ -1,0 +1,47 @@
+	// 渲染头部
+	$('.header').load('html/header.html',function(){
+		var spread = $('#spread');
+		var close = $('#close');
+
+		spread.click(function(e){
+			stopBubble(e);
+		})
+
+		close.click(function(e){
+			stopBubble(e);
+		})
+	});
+
+	// 顶部banner轮播图
+	var roller = Roller.create();
+
+
+	// banner选项卡
+	(function(){
+		var $slider = $('.mid_slide');
+		var $items = $slider.find('ul').children();
+
+		$items.click(function() {
+			$(this).siblings().attr('class','');
+			$(this).attr('class','charging_active');
+			if($(this).index() == 0){
+				$('.ph_money').show();
+				$('.liu_money').hide();
+			}else{
+				$('.liu_money').show();
+				$('.ph_money').hide();
+			}
+		});
+	})()
+
+	function stopBubble(e){
+		e = e || window.event;
+
+		if(e.stopPropagation){
+			e.stopPropagation();
+		}else{
+			e.cancelBubble = true;
+		}
+	}
+
+	
