@@ -1,8 +1,42 @@
 	// 渲染头部
 	$('.header').load('html/header.html',function(){
+
+		// 我的飞牛显示/隐藏
 		var $myfeiniu = $('.myFeiniu')
-		$myfeiniu.hover(()=>$myfeiniu.addClass('hoverFeiniu')
-		,()=>$myfeiniu.removeClass('hoverFeiniu'))
+		$myfeiniu.hover(
+			function(){
+				$myfeiniu.addClass('hoverFeiniu');
+				$('.hide_feiniu').show();
+				$myfeiniu.find('.arrow').css({
+					transform : "rotate(180deg)"
+				})
+			},
+			function(){
+				$myfeiniu.removeClass('hoverFeiniu');
+				$('.hide_feiniu').hide();
+				$myfeiniu.find('.arrow').css({
+					transform : "rotate(0deg)"
+				})
+			}
+		)
+
+		// 手机飞牛网显示/隐藏
+		$('.feiniu_app').hover(
+			function(){
+				$('.feiniu_app').addClass('hoverFeiniu_app');
+				$('.hide_feiniu_app').show();
+				$('.feiniu_app').find('.arrow').css({
+					transform : "rotate(180deg)"
+				})
+			},
+			function(){
+				$('.feiniu_app').removeClass('hoverFeiniu_app');
+				$('.hide_feiniu_app').hide();
+				$('.feiniu_app').find('.arrow').css({
+					transform : "rotate(0deg)"
+				})
+			}
+		)
 
 		var flag = true;
 
